@@ -11,3 +11,6 @@ id,nombre,tipo,precio,stock
 10,Ritz,Galleta,170.0,16
 11,Twix,Golosina,180.0,2
 12,Dr Pepper,Bebida,240.0,9
+13,Cuétara Chocoflakes,Galleta,966,3
+14,Skittles Wild Berry,Golosina,535,18
+15,7UP Light,Bebida,661,10

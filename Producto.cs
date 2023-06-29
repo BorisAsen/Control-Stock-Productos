@@ -58,7 +58,7 @@ namespace Final_StockProductos
             Console.WriteLine("Producto Nro " + id);
             Console.WriteLine("Nombre: " + nombre);
             Console.WriteLine("Tipo: " + tipo);
-            Console.WriteLine("Precio: " + precio);
+            Console.WriteLine("Precio: $" + precio);
             Console.WriteLine("Stock: " + stock);
             Console.WriteLine();
         }
