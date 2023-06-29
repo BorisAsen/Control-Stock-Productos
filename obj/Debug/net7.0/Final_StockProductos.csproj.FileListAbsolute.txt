@@ -1,0 +1,15 @@
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.csproj.AssemblyReference.cache
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.AssemblyInfoInputs.cache
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.AssemblyInfo.cs
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.csproj.CoreCompileInputs.cache
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\bin\Debug\net7.0\Final_StockProductos.exe
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\bin\Debug\net7.0\Final_StockProductos.deps.json
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\bin\Debug\net7.0\Final_StockProductos.runtimeconfig.json
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\bin\Debug\net7.0\Final_StockProductos.dll
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\bin\Debug\net7.0\Final_StockProductos.pdb
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.dll
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\refint\Final_StockProductos.dll
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.pdb
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\Final_StockProductos.genruntimeconfig.cache
+C:\Users\zaira\Desktop\BORIS\FACULTAD\Taller 1\Practica Final\Practica\C#_ListasCSV\Final_StockProductos\obj\Debug\net7.0\ref\Final_StockProductos.dll
